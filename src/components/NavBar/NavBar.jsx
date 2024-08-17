@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import "./NavBar.css"
-import logo from "../../assets/cards/Netflix_Logo.png"
+import logo from "../../assets/cards/logo.png"
 import search_icon from "../../assets/cards/search.png"
 import bell_icon from "../../assets/cards/bell.png"
 import profile_img from "../../assets/cards/profile.jpg"
