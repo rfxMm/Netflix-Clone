@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "../../pages/Axios/axios";
 import Footer from "../../components/Footer/Footer";
 import "./Row.css";
+import { Link } from "react-router-dom";
+
 
 const base_url = "https://image.tmdb.org/t/p/original/";
 
